@@ -4,10 +4,6 @@ The main purpose of choosing a golang based applciation to demostrate this examp
 
 So the real advantage of multi stage docker build and distro less images can be understand with a drastic decrease in the Image size.
 
-# Day 26 — Multi-Stage
-
-# Day 26 — Multi-Stage Docker Builds
-
 ## Overview
 
 Day 26 focuses on **Multi-Stage Docker Builds** and **Distroless Container Images**. The goal is to understand how to reduce Docker image size by separating the application build process from the final runtime environment.
